@@ -1,0 +1,41 @@
+.hobby {
+  padding: 50px 0;
+}
+.container {
+}
+.hobby-title{
+  margin: 0 auto 50px;
+  text-align: center;
+}
+.hobby-title h2{
+  font-size: 40px;
+    font-weight: 700;
+    font-family: 'Raleway';
+}
+.hobby-content {
+  display: flex;
+  justify-content: space-between;
+  padding:10px 0;
+  margin: 0 -15px;
+}
+.wrap-text {
+  margin: 0 15px;
+  width: 500px;
+  margin: auto;
+}
+.wrap-text p{
+  font-size: 20px;
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+.wrap-image {
+background-image: url('../img/dQ7jN9dFhgo.jpg');
+background-repeat: no-repeat;
+background-size: contain;
+width:400px;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 15px;
+}

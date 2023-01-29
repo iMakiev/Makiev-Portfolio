@@ -1,0 +1,75 @@
+.education {
+  padding: 50px 0;
+  background-color: rgba(211, 220, 220, 0.859);
+}
+.container {
+}
+.education-wrap{
+
+}
+.wrap-title{
+text-align: center;
+margin-bottom: 50px;
+}
+.wrap-title h2{
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Raleway';
+}
+.wrap-cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -15px;
+  padding:10px 0;
+}
+.cards-content {
+  width:370px;
+  border: 3px solid #fff;
+  display: flex;
+  flex-direction: column;
+  transition: 0.2s;
+  margin: 0 15px;
+}
+.cards-content:hover{
+  transform: scale(1.1);
+}
+.cards-img {
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  background-image: url('../img/IMG_1773.JPG');
+  background-size: cover;
+  margin: 20px auto;
+  
+
+}
+.uiga{
+  background-image: url('../img/uiga1111.jpg');
+}
+.tms{
+  background-image: url('../img/zoub1wL7Zo0-3.jpg');
+}
+.cards-title {
+  text-align: center;
+  margin-bottom: 20px;
+  flex-grow: 1;
+}
+.cards-title p{
+  font-family: 'Raleway';
+  font-size: 24px;
+  color: rgb(21, 16, 16);
+  font-weight: 700;
+  
+}
+.cards-subtitle {
+  text-align: center;
+  
+}
+.cards-subtitle p{
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgb(21, 16, 16);
+  
+}

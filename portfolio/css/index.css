@@ -1,0 +1,25 @@
+@import url('./cdn.css');
+@import url('./header.css');
+@import url('./main.css');
+@import url('./education.css');
+@import url('./hobby.css');
+@import url('./footer.css');
+@import url('./contacts.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  
+  }
+  html {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+  }
+  .container {
+  padding: 0px 15px;
+  max-width: 1170px;
+  margin: auto;
+  position:relative;
+  }

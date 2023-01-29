@@ -1,0 +1,58 @@
+.contacts {
+  padding: 50px 0;
+  background-color: rgba(211, 220, 220, 0.859);
+}
+.container {
+
+}
+.contacts-wrap {
+
+}
+.contacts-wrap-title{
+  margin: 0 auto 50px;
+  text-align: center;
+}
+.contacts-wrap-title h2{
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Raleway';
+}
+.wrap-content {
+  display: flex;
+  justify-content: space-between;
+
+}
+.wrap-content-image img {
+  width:400px;
+  height:300px;
+  margin: auto;
+}
+.wrap-content-links {
+margin:auto;
+width:400px;
+}
+.links-content{
+  text-align: center;
+  width: 400px;
+}
+.content-page{
+  margin-bottom: 30px;
+  transition: 0.2s;
+}
+.content-page a{
+  font-size: 25px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: black;
+}
+.content-page:hover{
+  transform: scale(1.1);
+  background-color: #fff;
+  background-size: contain;
+}
+.phone{
+  font-size: 25px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: black;
+}
